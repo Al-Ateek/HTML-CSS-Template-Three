@@ -1,4 +1,4 @@
-# Elzero Web School - HTML|CSS Template Two
+# Elzero Web School - HTML|CSS Template Three
 
 This is a template built with HTML and CSS
 
@@ -6,7 +6,6 @@ This is a template built with HTML and CSS
 
 After learning 37 videos of HTML and 88 videos of CSS
 building practical projects is the best thing that i should do
-so starting with Leon Agency
 
 ### Screenshot
 
