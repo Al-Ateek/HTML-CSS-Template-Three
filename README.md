@@ -13,7 +13,7 @@ building practical projects is the best thing that i should do
 
 ### Links
 
-Live Site URL: [https://al-ateek.github.io/HTML-CSS-Template-three/]
+Live Site URL: [https://al-ateek.github.io/HTML-CSS-Template-Three/]
 
 ### built with
 
